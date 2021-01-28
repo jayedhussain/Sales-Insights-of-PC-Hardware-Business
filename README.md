@@ -6,4 +6,4 @@ This Power Bi Dashboard project analyze sales to find insights such as top selli
 
 Below is the data model of sales data:
 
-![alt text] (https://github.com/jayedhussain/Sales-Insights-of-PC-Hardware-Business/blob/main/Images/DataModelSalesInsight.png "Data Model")
+![alt text](https://github.com/jayedhussain/Sales-Insights-of-PC-Hardware-Business/blob/main/Images/DataModelSalesInsight.png "Data Model")
