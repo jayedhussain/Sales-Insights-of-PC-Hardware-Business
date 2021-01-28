@@ -1,1 +1,4 @@
 # Sales-Insights-of-PC-Hardware-Business
+
+Atliq Hardware is a PC Hardware supplier compnay of Idia. This company wholesales PC hardware and other accessories to different retail business across india.
+This Power Bi Dashboard project analyze sales to find insights such as top selling products, regainal sales volumes, top customers, monthly revenue and revenue trends of business and visulaize those findings. Datasets for this Dashboard comes from connected MySQL Database and updates automatically.
